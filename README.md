@@ -1,4 +1,4 @@
-# BigData
+# BigData - Faculdade
  Projeto de BigData feito na faculdade sobre a violencia no Rio de Janeiro
 
 Site aonde se encontra os dados de segurança: http://www.ispdados.rj.gov.br/estatistica.html
